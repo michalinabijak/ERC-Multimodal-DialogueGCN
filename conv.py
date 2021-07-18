@@ -1,6 +1,6 @@
 import json
 
-filename = "/Users/michalinabijak/PycharmProjects/erc_github/data/glove.6B.100d.txt"
+filename = ".../data/glove.6B.100d.txt"
 
 dict1 = {}
 
