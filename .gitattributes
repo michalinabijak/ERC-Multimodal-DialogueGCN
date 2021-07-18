@@ -1,2 +1,2 @@
-*.json filter=lfs diff=lfs merge=lfs -text
-*.txt filter=lfs diff=lfs merge=lfs -text
+data/glove.6B.100d.txt filter=lfs diff=lfs merge=lfs -text
+data/glove_6B_100d.json filter=lfs diff=lfs merge=lfs -text
